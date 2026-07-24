@@ -1,62 +1,148 @@
-<h1 align="center">Hey, I'm Sasikumar 👋</h1>
-<h3 align="center">Computer Science Engineering Student | Python Developer | Flutter Developer | Web Developer</h3>
-<h3 align="center">SQL | Agentic AI Developer | Generative AI & Vibe Coding Enthusiast</h3>
-<h3 align="center">🚀 Open to Internships & Jobs</h3>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6,9,12,15,18,20,21,24,27,30&height=300&section=header&text=Sasikumar&fontSize=60&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Dev%20Mode:%20%E2%9A%A1%20ON%20|%20Agentic%20AI%20Developer&descSize=22&descAlignY=55&font=Orbitron"
+    alt="Sasikumar Banner"
+  />
+</div>
 
----
+<!-- ======================= -->
+<!-- Developer Animation -->
+<!-- ======================= -->
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    alt="Developer Animation"
+    width="100%"
+    style="max-width:900px; border-radius: 8px; margin-top: 16px;"
+  />
+</div>
 
-### 👨‍💻 About Me
+<!-- ======================= -->
+<!-- Profile Views & Followers -->
+<!-- ======================= -->
+<div align="center">
+  <p>
+    <img
+      src="https://komarev.com/ghpvc/?username=Sasikumar-007&style=for-the-badge&color=6366F1"
+      alt="profile views"
+    />
+    <a href="https://github.com/Sasikumar-007?tab=followers">
+      <img
+        src="https://img.shields.io/github/followers/Sasikumar-007?color=22D3EE&logo=github&style=for-the-badge"
+        alt="followers"
+      />
+    </a>
+  </p>
 
-🎓 Pre-final year Computer Science Engineering student, building agentic AI systems and full-stack products that solve real-world problems.
+  <!-- Typing Animation -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=70&lines=Pre-Final+Year+CSE+Student;Agentic+AI+%2F+Full-Stack+Developer;Founder+%40+SkyVL+Future+Soft;Building+AI-powered+solutions+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
+</div>
 
-🏢 Founder of **[SkyVL Future Soft](https://www.skyvlfuturesoft.website/)** — a web development agency based in Chennai.
+<!-- ======================= -->
+<!-- About Me -->
+<!-- ======================= -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+  <span style="color:#6366F1;">ABOUT ME</span>
+</h2>
 
-🔭 Currently working on: agentic AI systems, hackathon builds, and a structured 90-day DSA grind
-🌱 Learning: multi-agent orchestration with Google ADK & MCP
-💬 Ask me about: React, Flutter, Flask/FastAPI, Firebase, Supabase, Gemini & Claude API integration
-📌 Open to: **Internship & Job opportunities** in AI/full-stack development
+```javascript
+const Sasikumar = {
+  name: "Sasikumar",
+  roles: ["Pre-Final Year CSE Student", "Agentic AI Developer", "Full-Stack Engineer", "Founder @ SkyVL Future Soft"],
+  location: "Chennai, Tamil Nadu, India",
+  focus: ["AI/ML Systems", "GenAI & Agentic Workflows", "Web Apps", "Mobile Development", "Cloud Computing"],
+  techStack: {
+    languages: ["Python", "Java", "SQL", "Dart", "JavaScript"],
+    frontend: ["ReactJS", "Flutter", "HTML", "CSS"],
+    tools: ["Git", "GitHub", "Docker", "Jenkins", "Google Cloud Platform"],
+    ai: ["Gemini API", "Claude API", "RAG", "AI Tools"]
+  },
+  currentlySeeking: "Internship & Entry-Level opportunities in AI / Full-Stack Development",
+  philosophy: "Turning ideas into impactful software through innovation, learning, and technology."
+};
+```
 
----
+<!-- ======================= -->
+<!-- GitHub Analytics Header -->
+<!-- ======================= -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="25px">
+  <span style="color:#6366F1;">GITHUB ANALYTICS</span>
+</h2>
 
-### 🌐 Connect With Me
+<!-- ======================= -->
+<!-- GitHub Streak Stats -->
+<!-- ======================= -->
+<p align="center">
+  <a href="https://github.com/Sasikumar-007">
+    <img
+      src="https://streak-stats.demolab.com?user=Sasikumar-007&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=22D3EE&currStreakNum=6366F1&sideNums=6366F1&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF"
+      alt="Sasikumar's GitHub Streak"
+    />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sasi-portfolio2501.vercel.app/)
-[![SkyVL Future Soft](https://img.shields.io/badge/SkyVL_Future_Soft-4A90D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://companysite-amber.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasikumar-baskar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasikumarblogger@gmail.com)
+<!-- ======================= -->
+<!-- GitHub Stats -->
+<!-- ======================= -->
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px" alt="Octocat Logo"/>
+  <br/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Sasikumar-007&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=22D3EE&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800"
+    alt=""
+  />
+</div>
 
----
+<!-- ======================= -->
+<!-- GitHub Contribution Graph -->
+<!-- ======================= -->
+<p align="center">
+  <a href="https://github.com/Sasikumar-007">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Sasikumar-007&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=22D3EE&hide_border=true"
+      alt="Sasikumar's Contribution Graph"
+    />
+  </a>
+</p>
 
-### 🛠️ Tech Stack
+<!-- ======================= -->
+<!-- Connect With Me -->
+<!-- ======================= -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px">
+  <span style="color:#6366F1;">CONNECT WITH ME</span>
+</h2>
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/CLAUDE_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<div align="center">
 
----
+  <a href="https://www.linkedin.com/in/sasikumar-baskar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sasikumarblogger@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Sasikumar-007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://sasi-portfolio2501.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/SkyVL%20Future%20Soft-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SkyVL Future Soft"/>
+  </a>
 
-### 🏆 Featured Projects
+</div>
+<br/>
 
-- **[SkyVL Future Soft](https://companysite-amber.vercel.app/)** — Web development agency delivering full-stack products for local businesses
-- **SalesForge AI** — Multi-agent B2B cold outreach orchestrator (Google ADK, Google Places MCP, Claude AI, Supabase)
-- **Last-Minute Life Saver** — Agentic productivity app with Gemini function calling, Firebase, Google Calendar & Gmail APIs
-- **[Portfolio](https://sasi-portfolio2501.vercel.app/)** — Full-stack developer portfolio with live GitHub stats and Supabase-backed contact form
-
----
-
-### 📊 GitHub Stats
-
-![Sasikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasikumar-007&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasikumar-007&layout=compact&theme=radical)
-
----
-
-<p align="center"><i>🚀 Building. Learning. Shipping. Always open to internships and collaborations.</i></p>
+<!-- ======================= -->
+<!-- Footer Wave -->
+<!-- ======================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6,9,12,15,18,20,21,24,27,30&height=150&section=footer&text=STAY%20CURIOUS%20%!&fontSize=28&fontColor=fff&fontAlignY=65" alt="Footer Wave"/>
+</div>
