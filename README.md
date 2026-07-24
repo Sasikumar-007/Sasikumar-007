@@ -185,7 +185,7 @@ Internship & Job opportunities in AI / full-stack development.
   <a href="https://sasi-portfolio2501.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.skyvlfuturesoft.website" target="_blank">
+  <a href="https://skyvlfuturesoft.website" target="_blank">
     <img src="https://img.shields.io/badge/SkyVL%20Future%20Soft-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SkyVL Future Soft"/>
   </a>
 
