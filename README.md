@@ -9,7 +9,7 @@
 
 🎓 Pre-final year Computer Science Engineering student, building agentic AI systems and full-stack products that solve real-world problems.
 
-🏢 Founder of **[SkyVL Future Soft](https://companysite-amber.vercel.app/)** — a web development agency based in Chennai.
+🏢 Founder of **[SkyVL Future Soft](https://www.skyvlfuturesoft.website/)** — a web development agency based in Chennai.
 
 🔭 Currently working on: agentic AI systems, hackathon builds, and a structured 90-day DSA grind
 🌱 Learning: multi-agent orchestration with Google ADK & MCP
