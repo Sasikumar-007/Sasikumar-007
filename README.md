@@ -49,22 +49,74 @@
   <span style="color:#6366F1;">ABOUT ME</span>
 </h2>
 
-```javascript
-const Sasikumar = {
-  name: "Sasikumar",
-  roles: ["Pre-Final Year CSE Student", "Agentic AI Developer", "Full-Stack Engineer", "Founder @ SkyVL Future Soft"],
-  location: "Chennai, Tamil Nadu, India",
-  focus: ["AI/ML Systems", "GenAI & Agentic Workflows", "Web Apps", "Mobile Development", "Cloud Computing"],
-  techStack: {
-    languages: ["Python", "Java", "SQL", "Dart", "JavaScript"],
-    frontend: ["ReactJS", "Flutter", "HTML", "CSS"],
-    tools: ["Git", "GitHub", "Docker", "Jenkins", "Google Cloud Platform"],
-    ai: ["Gemini API", "Claude API", "RAG", "AI Tools"]
-  },
-  currentlySeeking: "Internship & Entry-Level opportunities in AI / Full-Stack Development",
-  philosophy: "Turning ideas into impactful software through innovation, learning, and technology."
-};
-```
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Who I Am**
+Pre-final year CSE student building agentic AI systems and full-stack products that solve real-world problems.
+
+**🏢 Founder**
+[SkyVL Future Soft](#) — a web development agency based in Chennai.
+
+**🧭 Right Now**
+Agentic AI systems, hackathon builds, and a structured 90-day DSA grind.
+
+</td>
+<td width="50%" valign="top">
+
+**🌱 Learning**
+Multi-agent orchestration with Google ADK & MCP.
+
+**💬 Ask Me About**
+React · Flutter · Flask/FastAPI · Firebase · Supabase · Gemini & Claude API integration.
+
+**📌 Open To**
+Internship & Job opportunities in AI / full-stack development.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Location-Chennai,%20India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22D3EE?style=for-the-badge&logo=statuspage&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Languages & Databases**
+
+<img src="https://skillicons.dev/icons?i=python,java,dart,js,mysql" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind" />
+
+**Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,gcp" />
+
+**AI & Agentic**
+
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_ADK_%26_MCP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<i>"Turning ideas into impactful software through innovation, learning, and technology."</i>
+</div>
 
 <!-- ======================= -->
 <!-- GitHub Analytics Header -->
